@@ -103,7 +103,7 @@ This lab deployment is exclusively built for authorized research, educational de
 👤 Author
 * **Name:** Joshua Ngulube
 * **Role:** Student
-* **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+* **LinkedIn:** linkedin.com/in/joshua-ngulube-2497a0439
 
 📌 Project Information
 * **Program Architecture:** Cybersecurity at NetworkWalks
