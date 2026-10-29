@@ -98,3 +98,14 @@ Newer Linux network managers occasionally drop communication when dealing with v
 
 ## 🔐 Security & Ethical Use Notice
 This lab deployment is exclusively built for authorized research, educational development, and sandbox security validation.
+
+
+👤 Author
+* **Name:** Joshua Ngulube
+* **Role:** Student
+* **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+
+📌 Project Information
+* **Program Architecture:** Cybersecurity at NetworkWalks
+* **Timeline Block:** Week 01
+* **Lab Target Assignment:** Cybersecurity & Pentesting Lab Setup (Phase 1)
